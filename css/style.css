@@ -9,9 +9,9 @@
   --font-code: 'Supermercado', monospace;
   --bg-color: #f8f8f84f;
   --font-color: #f30808;
-  --btn-bg-color: #ffffff;
+  --btn-bg-color: #0f0f0f;
   --accent-color: #000000;
-  --header-shadow: rgb(132, 243, 6) 0px 0px 5px;
+  --header-shadow: rgb(7, 7, 7) 0px 0px 5px;
 }
 
 * {
