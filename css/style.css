@@ -7,11 +7,11 @@
   --font-primary: 'Supermercado', sans-serif;
   --font-secondary: 'Supermercado', serif;
   --font-code: 'Supermercado', monospace;
-  --bg-color: #d4d4d4;
+  --bg-color: #eb1616;
   --font-color: #ffffff;
   --btn-bg-color: #ffffff;
-  --accent-color: #3e2aee;
-  --header-shadow: rgb(243, 239, 6) 0px 0px 5px;
+  --accent-color: #ff009d;
+  --header-shadow: rgb(132, 243, 6) 0px 0px 5px;
 }
 
 * {
